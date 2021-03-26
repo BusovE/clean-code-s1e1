@@ -16,7 +16,7 @@ body {
     width: 100%;
 }
 
-.div__header .more__inf {
+.div__header.more__inf {
     font-family: fantasy, cursive;
 }
 
@@ -26,7 +26,7 @@ body {
     }
 }
 
-.centered-main-page-element {
+.div__center {
     display: block;
     width: 500px;
     margin: 0 auto 0;
