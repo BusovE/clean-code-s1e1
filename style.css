@@ -57,7 +57,7 @@ button {
     outline: none;
 }
 
-button {
+.button_add {
     background: none;
     border: 0px;
     color: #888;
