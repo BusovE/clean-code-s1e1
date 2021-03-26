@@ -5,23 +5,23 @@ body {
     font-family: Lato, sans-serif;
 }
 
-.aaa {
+.div__header {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
 
-.aaa img {
+.div__header img {
     width: 100%;
 }
 
-.aaa .more__inf {
+.div__header .more__inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-    .aaa {
+    .div__header {
         text-align: center;
     }
 }
