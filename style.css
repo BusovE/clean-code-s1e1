@@ -5,28 +5,28 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.div__header {
+.app__image {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.div__header img {
+.app__image img {
   width: 100%;
 }
 
-.div__header.more__inf {
+.app__image.more__inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .div__header {
+  .app__image {
     text-align: center;
   }
 }
 
-.div__center {
+.main__center {
   display: block;
   width: 500px;
   margin: 0 auto 0;
